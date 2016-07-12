@@ -1,0 +1,44 @@
+body {
+    background-color:red;
+}
+
+
+p {
+    color:white;
+}
+
+p {
+    font-family: Italic;
+    font-weight: bold;
+    font-size: large;
+    font-style: oblique;
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size:larger;
+    font-variant: small-caps;
+    
+}
+
+.style {
+    background-color:orange;
+    
+}
+
+.body {
+    background-color:brown;
+}
+
+.btn1 {
+  background-color:blue;
+  border:none;
+  color:orange;
+  padding:35px 32px;
+  text-align:center;
+  font-size:30px;
+  margin:4px 10px;
+  cursor:pointer;
+  border-radius:20px;
+}
