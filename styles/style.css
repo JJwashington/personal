@@ -1,3 +1,7 @@
+.h1 {
+    color:white;
+}
+
 body {
     background-color: red;
 }
@@ -28,3 +32,17 @@ h1 {
     background-color: brown;
 }
 
+.nav {
+  border: 1px solid red;
+  background-color: white;
+  color: red;
+  padding: 5px;
+  width:50px;
+  display: inline;
+  text-decoration: none;
+}
+
+.nav:hover {
+  color: red;
+  background-color: white;
+}
